@@ -12,3 +12,8 @@ Te invito a contactarme
 
 -Proactivo
 -Trabajo en equipo
+
+## Pasatiempo
+
+-Leer
+-Hacer deporte 
