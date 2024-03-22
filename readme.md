@@ -17,3 +17,9 @@ Te invito a contactarme
 
 -Leer
 -Hacer deporte 
+
+## Tecnologias
+
+- HTML
+- CSS
+- JS
