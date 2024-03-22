@@ -8,6 +8,11 @@ soy un aprendis de FSD el cual me desarrollare
 
 Te invito a contactarme
 
+## Habilidades
+
+-Proactivo
+-Trabajo en equipo
+
 ## Pasatiempo
 
 -Leer
